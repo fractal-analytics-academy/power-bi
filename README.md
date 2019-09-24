@@ -1,5 +1,5 @@
 ## Visualization in BI using Power BI - Basics
-* This repository contains all learning content to successfully complete the **FAA Course - Visualization in BI using Power BI**
+* This repository contains all learning content required to successfully complete the **FAA Course - Visualization in BI using Power BI**
 * It also contains guided learning material required during the hands-on workshop
 
 ### How to navigate?
